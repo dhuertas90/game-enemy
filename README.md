@@ -37,6 +37,5 @@ El proyecto está organizado de la siguiente manera:
 - `README.md`: Este archivo que describe el proyecto y su funcionalidad.
 
 
-## Créditos
-
-Este juego fue creado por David Huertas.
+## Autor
+D.H
